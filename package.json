@@ -1,0 +1,33 @@
+{
+  "name": "pptr-basic-tools",
+  "version": "1.0.0",
+  "description": "Basic tools for Puppeteer projects",
+  "main": "./build/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atr-solucoes-ltda/pptr-basic-tools.git"
+  },
+  "keywords": [
+    "JavaSript",
+    "Typescript",
+    "NodeJS",
+    "Puppeteer"
+  ],
+  "author": "Stallone L de Souza - Aux Adm de Logistica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atr-solucoes-ltda/pptr-basic-tools/issues"
+  },
+  "homepage": "https://github.com/atr-solucoes-ltda/pptr-basic-tools#readme",
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  }
+}
